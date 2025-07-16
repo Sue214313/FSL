@@ -3,12 +3,12 @@
 This work utilizes three publicly available benchmark datasets for few-shot learning experiments:
 
 - **CUB-200-2011**: Caltech-UCSD Birds 200-2011 dataset, which contains 200 bird species with a total of 11,788 images.  
-  Available at: [https://www.vision.caltech.edu/datasets/cub_200_2011/](https://www.vision.caltech.edu/datasets/cub_200_2011/)
+  Available at: https://www.vision.caltech.edu/datasets/cub_200_2011/
 
 - **CIFAR-FS**: A few-shot learning version of the CIFAR-100 dataset, derived from the official CIFAR dataset provided by the University of Toronto.  
-  Available at: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
+  Available at: https://www.cs.toronto.edu/~kriz/cifar.html
 
 - **miniImageNet**: A subset of the ImageNet dataset used for few-shot learning, originally introduced by Vinyals et al.  
-  Available at: [https://drive.google.com/file/d/0B3Irx3uQNoBMQ1FlNXJsZUdYWEE/view](https://drive.google.com/file/d/0B3Irx3uQNoBMQ1FlNXJsZUdYWEE/view)
+  Available at: https://github.com/yaoyao-liu/mini-imagenet-tools
 
 These datasets are publicly accessible and used solely for academic research purposes in this study.
